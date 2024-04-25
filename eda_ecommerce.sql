@@ -19,7 +19,7 @@ LIMIT 20
 
 SELECT 
     class,
-    COUNT(class)
+    COUNT(class) as total
 FROM fraud_data
 GROUP BY class
 
@@ -52,7 +52,7 @@ SELECT
 FROM fraud_data
 GROUP BY class
 
--- 4 - Temos algum usuário que fraudou mais de uma vez?
+-- 4 - Temos algum usuário que fraudou mais de uma vez? Quem fraudou usou o mesmo dispositivo para cometer a fraude?
 
 SELECT
     class,
@@ -186,3 +186,17 @@ WHERE class = 1
 GROUP BY age
 ORDER BY num_fraudes_age DESC
 
+-- 10 - Existe alguma faixa de preço que tem mais fraudes?
+/*
+Nesse caso, podemos descobrir quais produtos são mais visados pelos usuários que cometem fraudes
+de acordo com o seu preço.
+*/
+
+SELECT
+    class,
+    purchase_value,
+    COUNT(purchase_value) AS num_fraudes_preco
+FROM fraud_data
+WHERE class = 1
+GROUP BY purchase_value
+ORDER BY num_fraudes_preco DESC
