@@ -25,3 +25,7 @@ Segue abaixo a descrição das variáveis:
 - sex: gênero do usuário
 - age: idade do usuário
 - ip_address: endereço de IP do usuário
+
+## Perguntas de negócio
+### Qual o total de vendas? Qual a porcentagem de fraudes?
+
