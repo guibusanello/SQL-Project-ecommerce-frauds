@@ -15,13 +15,13 @@ Para essa análise, usei o MySQL para importar o arquivo contendo a base de dado
 ## Descrição do banco de dados
 Segue abaixo a descrição das variáveis:
 
-**user_id: número de identificação do usuário**
-**signup_time: data e horário em que o usuário fez o login**
-**purchase_time: data e horário em que o usuário fez a compra**
-**purchase_value: valor da compra**
-**device_id: número de identificação do aparelho utilizado pelo cliente**
-**source: via por onde o usuário chegou ao e-commerce**
-**browser: navegador utilizado pelo usuário**
-**sex: gênero do usuário**
-**age: idade do usuário**
-**ip_address: endereço de IP do usuário**
+- user_id: número de identificação do usuário
+- signup_time: data e horário em que o usuário fez o login
+- purchase_time: data e horário em que o usuário fez a compra
+- purchase_value: valor da compra
+- device_id: número de identificação do aparelho utilizado pelo cliente
+- source: via por onde o usuário chegou ao e-commerce
+- browser: navegador utilizado pelo usuário
+- sex: gênero do usuário
+- age: idade do usuário
+- ip_address: endereço de IP do usuário
