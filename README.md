@@ -93,8 +93,29 @@ Produtos com mais ações fraudulentas custam $32, $19, $28, $23 e $17 respectiv
 
 <img src="assets/10_preco02.png">
 
+## Conclusões e recomendações
 
+Após analisar os dados, podemos observar alguns padrões relacionados as ações fraudulentas e quais ações podem ser sugeridas ao e-commerce para diminuir os problemas de fraudes. 
 
+Abaixo seguem alguns insighs sobre o estudo:
 
+- 9,36% das vendas realizadas e do faturamento do e-commerce foram fraudadas
+- Usuários que cometem fraudes utilizam o mesmo dispositivo no mínimo duas vezes
+- Transações que duram até 1 segundo também são um indicativo de operações fraudulentas
+- Usuários que cometeram fraudes utilizavam em sua maioria o Chrome e chegaram ao e-commerce via Ads
+- Usuários do sexo masculino foram os que mais cometeram fraudes no e-commerce
+- Pessoas com a faixa etária entre 28-37 anos foram as que mais cometeram fraudes no e-commerce
+- Produtos na faixa de preço entre $19 e $38 foram os mais visados nas ações fraudulentas
+
+Com base nessas informações, seguem algumas sugestões ao e-commerce:
+
+1) Aprimorar a detecção de fraudes: Implementar sistemas de detecção de fraudes mais robustos, considerando especialmente transações realizadas em dispositivos usados várias vezes e aquelas com duração extremamente curta.
+2) Aumentar a segurança no processo de pagamento: Reforçar as verificações de segurança durante o processo de pagamento, especialmente para transações com duração muito curta.
+3) Monitorar o tráfego de entrada: Intensificar o monitoramento do tráfego proveniente de anúncios (Ads), especialmente aqueles provenientes do navegador Chrome.
+4) Focar em estratégias de marketing direcionadas: Segmentar as campanhas de marketing para usuários do sexo masculino e da faixa etária entre 28 e 37 anos, visando reduzir o risco de fraudes.
+5) Revisar políticas de segurança de dispositivos: Reforçar as políticas de segurança relacionadas ao uso de dispositivos, especialmente aqueles usados repetidamente para realizar transações.
+6) Avaliar a segurança dos produtos mais visados: Avaliar a segurança dos produtos com preços entre $19 e $38 e considerar medidas adicionais de proteção para esses itens.
+
+Essas sugestões podem ajudar o e-commerce a reduzir o impacto das fraudes e melhorar a segurança das transações.
 
 
