@@ -63,31 +63,31 @@ Analisando o tempo entre o login e o site em segundos, a maioria (53,71%) dos ca
 
 <img src="assets/5_dif_seg.png">
 
-### 5 - Qual o browser teve mais fraudes?
+### 5) Qual o browser teve mais fraudes?
 
 O browser que teve mais ações fraudulentas foi o Chrome (42,89%).
 
 <img src="assets/6_browser.png">
 
-### 6 - Qual fonte teve mais fraudes?
+### 6) Qual fonte teve mais fraudes?
 
 A via que o usuário chegou ao e-commerce com mais ações fraudulentas foi Ads.
 
 <img src="assets/7_source.png">
 
-### 7 - Quem comete mais fraudes: homens ou mulheres?
+### 7) Quem comete mais fraudes: homens ou mulheres?
 
 Segundo os dados, homens cometem mais fraudes que mulheres. Ao todo, quase 60% das fraudes foram cometidas por homens.
 
 <img src="assets/8_sexo.png">
 
-### 8 - Quais faixas etárias estão associadas às pessoas que mais cometeram fraudes?
+### 8) Quais faixas etárias estão associadas às pessoas que mais cometeram fraudes?
 
 Pessoas com 36 e 32 anos de idade foram as que mais cometeram ações fraudulentas no e-commerce em questão. Em relação as faixas etárias, pessoas entre 28-32 anos e pessoas entre 33-37 anos foram as que cometeram mais fraudes (43,23% das fraudes).
 
 <img src="assets/9_idades02.png">
 
-### 9 - Existe alguma faixa de preço que tem mais fraudes?
+### 9) Existe alguma faixa de preço que tem mais fraudes?
 
 Produtos com mais ações fraudulentas custam $32, $19, $28, $23 e $17 respectivamente. Produtos na faixa de preço entre $19 e $38 foram os mais visados nas ações fraudulentas (39,09%) . Nesse caso, podemos mostrar quais produtos são mais visados pelos usuários que cometem fraudes de acordo com o seu preço para que o e-commerce tome ações preventivas em relação as fraudes.
 
