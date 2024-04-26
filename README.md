@@ -52,6 +52,12 @@ Analisando os dados relacionados ao dispositivo utilizado pelo usuário, observa
 
 <img src="assets/3_device_histograma.png">
 
+### 4) Qual o intervalo de tempo entre o cadastro e a compra do site? Existe alguma relação do intervalo de tempo com as fraudes?
+
+Podemos observar que na maioria dos casos fraudulentos, a diferença de data é 0 dias. A média geral é de 28,05 dias e o valor máximo é de 120 dias.
+
+
+
 
 
 
