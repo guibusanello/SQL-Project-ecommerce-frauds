@@ -26,6 +26,15 @@ Segue abaixo a descrição das variáveis:
 - age: idade do usuário
 - ip_address: endereço de IP do usuário
 
+## O que pode ser considerado fraude?
+Podemos considerar como fraude qualquer atividade enganosa que envolva transações online, incluindo:
+
+- Uso de informações de cartão de crédito roubadas.
+- Falsificação de identidade.
+- Ataques de phishing para obter informações pessoais.
+- Uso de bots para realizar compras automáticas.
+- Manipulação de devoluções e reembolsos.
+
 ## Perguntas de negócio
 ### 1) Qual o número total de vendas? Qual a porcentagem de fraudes?
 
